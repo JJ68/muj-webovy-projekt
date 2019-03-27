@@ -1,5 +1,5 @@
 ---
-title: Rozšírená realita
+title: ## Ako rozšírená realita zmení náš každodenný život
 ---
 
 >Mojím cieľom je oboznámiť ľudí s veľkými výhodami tejto technológie, ktorá skôr či neskôr bude súčasťou našich životov.
