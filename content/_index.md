@@ -2,7 +2,7 @@
 title: Rozšírená realita
 ---
 
->Mojím cieľom je oboznámiť ľudí s veľkými výhodami tejto technológie, ktorá skôr či neskôr bude súčasťou našich životov.**
+>Mojím cieľom je oboznámiť ľudí s veľkými výhodami tejto technológie, ktorá skôr či neskôr bude súčasťou našich životov.
 >
 >Rozšírená realita(AR) je síce dlho vyvíjaný koncept, ale pre mnohých z Vás, ktorých ste o tejto technológií ešte nepočul, ide >o niečo nové. V skratke sa jedná o vkladanie a manipulovanie s virtuálnymi objektmi v reálnom svete.
 >
