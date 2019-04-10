@@ -1,46 +1,13 @@
 ---
 <<<<<<< Updated upstream
-title: ## Ako rozšírená realita zmení náš každodenný život
+title: ## Apple's AR future
 ---
 
->Mojím cieľom je oboznámiť ľudí s veľkými výhodami tejto technológie, ktorá skôr či neskôr bude súčasťou našich životov.
->
->Rozšírená realita(AR) je síce dlho vyvíjaný koncept, ale pre mnohých z Vás, ktorých ste o tejto technológií ešte nepočul, ide >o niečo nové. V skratke sa jedná o vkladanie a manipulovanie s virtuálnymi objektmi v reálnom svete.
->
->Môžete si povedať, prečo by ma to malo zaujímať?
->Prečo by som mal meniť spôsob, akým dnes pracujem, nakupujem a iné? Tieto otázky si pri mnohých veciach položil každý z nás, >niektorý môžu dokonca protestovať, ako napríklad roľníci pri vynájdení kombajnu zámerne rozbíjali stroje, pretože im berú >prácu, prehliadli však veľké výhody tohoto stroja.
->
->Preto by som chcel túto tému a jej výhody objasniť v záverečnom projekte a ukázať ľuďom, akým spôsobom môžeme využiť túto >technológiu v náš prospech a zjedodušiť si každodenné činnosti. Nie je otázkou či sa táto technológia presadí, ale kedy sa >presadí.
->
->Nenašiel som žiadne relevantné zdroje v češtine a slovenčine, pretože 90% článkov len opisuje už vyvinuté aplikácie, >poprípade len ohovárajú Apple pre kliknutia a sledovanosť ich bulváru.
-=======
-title: Rozšírená realita
----
+Augmented reality has gone far beyond Pokémon Go. Apple's ARKit developer tool, now in its second iteration with iOS 12, has brought AR tricks to some of your favorite apps, allowing for new experiences you didn't expect.
 
-# Mojím cieľom je oboznámiť ľudí s veľkými výhodami tejto technológie, ktorá skôr či >neskôr bude súčasťou našich životov.**
->
->Rozšírená realita(AR) je síce dlho vyvíjaný koncept, ale pre mnohých z Vás, ktorých ste o >tejto technológií ešte nepočul, ide o niečo nové. V skratke sa jedná o vkladanie a >manipulovanie s virtuálnymi objektmi v reálnom svete.
->
->Môžete si povedať, prečo by ma to malo zaujímať?
->Prečo by som mal meniť spôsob, akým dnes pracujem, nakupujem a iné? Tieto otázky si pri >mnohých veciach položil každý z nás, niektorý môžu dokonca protestovať, ako napríklad >roľníci pri vynájdení kombajnu zámerne rozbíjali stroje, pretože im berú prácu, >prehliadli však veľké výhody tohoto stroja.
->
->Preto by som chcel túto tému a jej výhody objasniť v záverečnom projekte a ukázať ľuďom, >akým spôsobom môžeme využiť túto technológiu v náš prospech a zjedodušiť si každodenné >činnosti. Nie je otázkou či sa táto technológia presadí, ale kedy sa presadí.
->
->Nenašiel som žiadne relevantné zdroje v češtine a slovenčine, pretože 90% článkov len >opisuje už vyvinuté aplikácie, poprípade len ohovárajú Apple pre kliknutia a sledovanosť >ich bulváru.
->>>>>>> Stashed changes
->
->Zdroje
->
->https://www.apple.com/lae/ios/augmented-reality/
->
-<<<<<<< Updated upstream
->https://appleinsider.com/articles/19/02/26/apples-future-ar-smart-glasses-could-help-you-find-things-in-your-house
->
->https://www.howtogeek.com/400963/google-glass-isnt-dead-and-its-the-future-of-industry/
->
-=======
->https://appleinsider.com/articles/19/02/26/apples-future-ar-smart-glasses-could-help-you->find-things-in-your-house
->
->https://www.howtogeek.com/400963/google-glass-isnt-dead-and-its-the-future-of-industry/
->
->>>>>>> Stashed changes
+Actually dissecting a once-living frog is a feat not all students can, nor want to, do. You know what's a lot nicer? Using Froggipedia to slice open a virtual Kermit, since it supports the Apple Pencil, which is a lot less dangerous than an actual scalpel. Oh, and the best part? No cleanup.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhI49AefyJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Článok som vybral, pretože ukazuje peknú aplikáciu, ktorá využíva rozšírenú realitu vo vzdelávaní na školách, alebo aj doma a je vhodná pre všetky vekové kategórie. Ako bonus nemusíte pytvať naozajstnú žabu :).
